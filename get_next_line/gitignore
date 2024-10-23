@@ -1,0 +1,12 @@
+.gitignore
+Makefile
+_*
+.*.swp
+.*.swo
+*test*
+*.a
+*.o
+*.out
+*.rpt
+main.c
+gnlTester
